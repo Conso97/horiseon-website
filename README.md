@@ -20,3 +20,6 @@ In this activity I learnt:
 * Refactor what is given on HTML and CSS withought changing the behavior.
 
 * How to include comments before elements or sections on a page. 
+
+https://conso97.github.io/horiseon-website/
+
