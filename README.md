@@ -24,6 +24,6 @@ In this activity I learnt:
 https://conso97.github.io/horiseon-website/
 
 <img id="styledImage"
-    src="Horiseon.jpg" width="20%" height="20%"
+    src="Horiseon.jpg" width="70%" height="70%"
     alt="Horiseon-webpage"
   />
